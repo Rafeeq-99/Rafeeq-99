@@ -1,4 +1,4 @@
-## <img src="https://github.com/Rafeeq-99-PR0FESS0R-99/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Rafeeq-99](https://github.com/Rafeeq-99) Welcome To Github Profile
+## <img src="https://github.com/Rafeeq-99-Rafeeq-99/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Rafeeq-99](https://github.com/Rafeeq-99) Welcome To Github Profile
 
 * 📚 Student
 
