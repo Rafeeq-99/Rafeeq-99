@@ -13,7 +13,7 @@
 <a href="https://youtube.com/channel/UC4sW04as2P-N6bP5D8E89qQ"><img alt="youtube" src="https://img.shields.io/youtube/channel/subscribers/UC4sW04as2P-N6bP5D8E89qQ?V?label=Subscribers&style=for-the-badge&logo=youtube&logoColor=red"/></a>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rafeeq-99&theme=highcontrast" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Professor-99&theme=highcontrast" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafeeq-99theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafeeq-99&layout=compact&theme=tokyonight" align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
