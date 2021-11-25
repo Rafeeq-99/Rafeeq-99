@@ -14,7 +14,7 @@
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rafeeq-99&theme=highcontrast" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PR0FESS0R-99&theme=tokyonight" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rafeeq-99theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafeeq-99&layout=compact&theme=tokyonight" align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a>
@@ -30,7 +30,7 @@
 📊 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅 📊
 </p>
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Rafeeq-99&custom_title=Contribution+Graph&theme=xcode" />
 <img src="https://github-readme-stats.vercel.app/api?username=Rafeeq-99&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
 </p>
 
