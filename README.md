@@ -60,4 +60,4 @@
 </p>
 
 
-<img align="right" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Developer.gif"/>
+
