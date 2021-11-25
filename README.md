@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi I'm Rafeeq-99 Rafeeq-99</h1>
+
 <h3 align="center">👋 Hi I'm Rafeeq-99</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafeeq-99&label=Profile%20views&color=0e75b6&style=flat" alt="rafeeq-99" /> </p>
