@@ -31,7 +31,7 @@
 </p>
 <p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode" />
-<img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rafeeq-99&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
 </p>
 
 
@@ -40,7 +40,7 @@
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
 </p>
 <p align="center">
-<img width="50%" src="https://github-profile-trophy.vercel.app/?username=PR0FESS0R-99&theme=darkhub" />
+<img width="50%" src="https://github-profile-trophy.vercel.app/?username=Rafeeq-99&theme=darkhub" />
 </p>
 
 <p align="center">
@@ -56,5 +56,5 @@
  𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🧐
 </p>
 <p align="center">
-<img width="50%" src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views" />
+<img width="50%" src="https://gpvc.arturio.dev/Rafeeq-99" alt="Profile views" />
 </p>
