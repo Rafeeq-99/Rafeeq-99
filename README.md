@@ -41,9 +41,9 @@
 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐔𝐒
 </p>
 <p align="center">
-<a href="https://t.me/MR_Tech_Pa"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
-<a href="https://youtube.com/channel/UC4sW04as2P-N6bP5D8E89qQ"><img src="https://img.shields.io/badge/MR-Tech-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<a href="https://t.me/MR_Tech_Group"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
+<a href="Https://telegram.dog/MRKT_Tech"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
+<a href="https://youtube.com/channel/UC4sW04as2P-N6bP5D8E89qQ"><img src="https://img.shields.io/badge/MRKT-Tech-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<a href="Https://telegram.dog/MRKT_Tech_Group"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
 
 
 <p align="center">
